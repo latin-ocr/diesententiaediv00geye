@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diesententiaediv00geye_0077.png"; bbox 0 0 2106 3453; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 755 1492 1026 1543">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 755 1492 1026 1543">
+     <span class='ocr_line' id='line_1_1' title="bbox 755 1492 1026 1543; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 755 1493 818 1543; x_wconf 93' lang='grc' dir='ltr'>Π.</span> <span class='ocrx_word' id='word_1_2' title='bbox 867 1492 1026 1542; x_wconf 85' lang='lat' dir='ltr'>Teil.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 179 1628 1607 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 179 1628 1607 1702">
+     <span class='ocr_line' id='line_1_2' title="bbox 179 1628 1607 1702; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 179 1628 386 1702; x_wconf 80' lang='lat' dir='ltr'>Text</span> <span class='ocrx_word' id='word_1_4' title='bbox 437 1631 574 1701; x_wconf 84' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_5' title='bbox 627 1631 1090 1702; x_wconf 77' lang='lat' dir='ltr'>Sententiae</span> <span class='ocrx_word' id='word_1_6' title='bbox 1143 1630 1607 1700; x_wconf 77' lang='lat' dir='ltr'>divinitatis.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
